@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evs</string>
+
+    <string name="pollution">Pollution</string>
+    <string name="map">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
